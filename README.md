@@ -1,6 +1,6 @@
 Project done as an exercise proposed in the C# course on the udemy.com website.
 
-statement of the exercise:
+Statement of the exercise:
 Make a program to read the data from a bank account and then make a withdrawal from this bank account, showing the new balance. A withdrawal cannot take place either if there is no balance on the account, or if the withdrawal amount exceeds the account withdrawal limit.
 
 ----------------------------------------------------------------------------------
